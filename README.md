@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is whopee. I am currently learning C#,C++ and javascript as well as unity.
 <!--
 **whoppeedo212/whoppeedo212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
